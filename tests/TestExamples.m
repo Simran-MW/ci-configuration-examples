@@ -80,7 +80,7 @@ classdef TestExamples < matlab.unittest.TestCase
 %             % Verify that the two are equal
 %             testCase.verifyEqual(doyActual,doyExpected)
 %         end
-        
+% this is a new comment
     end
 
 end
