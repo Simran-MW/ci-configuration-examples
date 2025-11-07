@@ -27,7 +27,7 @@ jobs:
       
       # Sets up MATLAB on a GitHub-hosted runner
       - name: Set up MATLAB
-        uses: Simran-MW/matlab-actions/setup-matlab@Simran_dependencies
+        uses: matlab-actions/setup-matlab@Simran_dependencies
        # matlab-actions/setup-matlab@9b810f666f8f2b4c8cd52e4f0e5f2934942e445f
                
 
